@@ -18,7 +18,7 @@ print(x * y)
 #5. BMI-kalkylator
 a = float(input("hur mycket väger du i kilo "))
 b = float(input("hur lång är du i m "))
-print(a//(b**2))
+print("det här är din BMI" , a//(b**2))
 
 #6. ”Livet i veckor”
 a1 = int(input("hur gamma är du "))
